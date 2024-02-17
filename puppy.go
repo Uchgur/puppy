@@ -17,5 +17,5 @@ func BigBark() string {
 }
 
 func SecondTag() string {
-	return "Tag version 1.1.0"
+	return "Tag version 1.3.0"
 }
