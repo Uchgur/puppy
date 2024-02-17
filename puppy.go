@@ -15,3 +15,7 @@ func Barks() string {
 func BigBark() string {
 	return dog.WhenGrownUp(Bark())
 }
+
+func SecondTag() string {
+	return "Tag version 1.1.0"
+}
